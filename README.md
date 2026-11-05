@@ -7,6 +7,7 @@ fusionredact : | Data Security - Sensitive Data Protection | Data Fusion Pipelin
 - Stores masked sensitive data & the non-sensitive data in Cloud Storage.
 - Connect Cloud Data Fusion to Cloud Storage source.
 - Deploy Sensitive Data Protection plugin.
+- Work with Spark-based managed ETL services
 - Create custom Sensitive Data Protection template.
 - Use Redact transform plugin to mask sensitive customer data.
 - Write output data to Cloud Storage.
