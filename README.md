@@ -3,13 +3,13 @@ fusionredact : | Data Security - Sensitive Data Protection | Data Fusion Pipelin
 
 
 ## Objectives
-Redacts customer phone numbers and emails by masking them with the # character.
-Stores the masked sensitive data and the non-sensitive data in a Cloud Storage.
-Connect Cloud Data Fusion to a Cloud Storage source.
-Deploy the Sensitive Data Protection plugin.
-Create a custom Sensitive Data Protection template.
-Use the Redact transform plugin to mask sensitive customer data.
-Write the output data to Cloud Storage.
+- Redacts customer phone numbers & emails by masking them with # character.
+- Stores masked sensitive data & the non-sensitive data in Cloud Storage.
+- Connect Cloud Data Fusion to Cloud Storage source.
+- Deploy Sensitive Data Protection plugin.
+- Create custom Sensitive Data Protection template.
+- Use Redact transform plugin to mask sensitive customer data.
+- Write output data to Cloud Storage.
 
 
 ## Similar Skills Set
